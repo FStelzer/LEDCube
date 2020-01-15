@@ -4,6 +4,8 @@ Kit contains 4 different parts:
  - 8x Rows A - 4x LEDs on each - connect to column boards
  - 8x Rows B - 4x LEDs on each - connecto to column boards
 
+See images/ folder first to see what the result should look like!
+
 First check if all column boards fit through the slots in the mainboard. Sometimes they need a little bit of scraping/sanding on the edges to fit easily.
 Similar for the rows connecting to the columns, check if they all fit. Usually those can simply be pushed in.
 
